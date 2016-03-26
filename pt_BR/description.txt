@@ -1,0 +1,40 @@
+﻿AdBlock Ultimate foi projetado com um único propósito, remover todos os anúncios e focar a atenção somente no conteúdo que você quer.
+
+Features
+- Remove todos os anúncios
+- Bloqueia malware e rastreamento
+- Melhora a performance do navegador
+- Sem lista "aceitável" de anúncios ou websites/empresas de anúncios "confiáveis"
+
+AdBlock Ultimate é uma extensão gratuita que bloqueia anúncios e domínios maliciosos conhecidos por espalhar malwares, e desabilita o rastreamento. Nós incluímos alguns filtros abrangentes que oferecem boa proteção contra anúncios irritantes e chamativos, comerciais de Youtube, e muitos outros. Ao contrário de outros bloqueadores de anúncios, não temos lista confiável para websites, anunciantes ou empresas de anúncios para mostrar a você conteúdo indesejado. Bloquear anúncios vai melhorar sua velocidade de carregamento de páginas, diminuir o uso da CPU e da memória.
+
+Nossa extensão permite a você religar anúncios para sites favoritos, caso você saiba que neles não há publicidade intrusiva ou enganadora.
+
+*** Tipos de anúncios bloqueados ***
+- Anúncios de texto
+- Banners
+- Pop-ups
+- Pop-unders
+- Anúncios sobrepostos
+- Intersticiais
+- Anúncios de vídeo
+- Anúncios de webmail
+- Anúncios de Facebook
+
+*** Benefícios do bloqueio de anúncios ***
+- Aumentar a velocidade de navegação
+- Aumentar a velocidade do carregamento das páginas
+- Diminuir o consumo de memória das páginas que você visita
+- Diminuir o consumo de banda da internet
+
+*** O que há de novo na versão 2.18? ***
+- Adicionado: achievements
+- Consertado: alguns bugs menores
+
+*** Open Source ***
+AdBlock Ultimate é um projeto open source:
+https://github.com/adblockultimate/AdBlock-Ultimate
+
+*** Achou um bug? ***
+Use o formulário "Reportar um problema": 
+https://adblockultimate.net/report.html
